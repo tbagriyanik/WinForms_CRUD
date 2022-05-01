@@ -1,5 +1,5 @@
 # WinForms_CRUD
- WinForms .Net Framework - Entity Framework - Code First
+ WinForms .Net Framework - Entity Framework - 2 tablo ile temel veritabanı işlemleri - Code First
  
  https://tbagriyanik.wordpress.com/2022/04/28/windows-forms-entity-framework-code-first-yontemi/
  
